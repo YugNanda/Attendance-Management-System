@@ -1,0 +1,41 @@
+--- Student Attendance System ---
+1. Add Student
+2. Mark Attendance
+3. View Attendance
+4. Save & Exit
+Enter your choice: 1
+
+Enter Roll Number: 101
+Enter Name: John Doe
+Student added successfully!
+
+--- Student Attendance System ---
+1. Add Student
+2. Mark Attendance
+3. View Attendance
+4. Save & Exit
+Enter your choice: 2
+
+Enter Roll Number to mark attendance: 101
+Mark attendance for John Doe (P/A): P
+Attendance updated!
+
+--- Student Attendance System ---
+1. Add Student
+2. Mark Attendance
+3. View Attendance
+4. Save & Exit
+Enter your choice: 3
+
+Attendance Record:
+Roll No   Name         Attendance
+101       John Doe     Present
+
+--- Student Attendance System ---
+1. Add Student
+2. Mark Attendance
+3. View Attendance
+4. Save & Exit
+Enter your choice: 4
+
+Attendance saved successfully!
